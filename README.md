@@ -1,6 +1,6 @@
 ## Hello 👋
 <a href="https://github.com/KohamaKaito">
-  <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api?username=KohamaKaito&count_private=true&show_icons=true&theme=vue" />
+  <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api?username=KohamaKaito&count_private=true&show_icons=true&include_all_commits=true&theme=vue" />
 </a>
 
 <a href="https://github.com/KohamaKaito">
