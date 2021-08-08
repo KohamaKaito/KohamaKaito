@@ -1,4 +1,12 @@
-### Hi there 👋
+## Hello 👋
+<a href="https://github.com/KohamaKaito">
+  <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api?username=KohamaKaito&count_private=true&show_icons=true&theme=vue" />
+</a>
+
+<a href="https://github.com/KohamaKaito">
+  <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KohamaKaito&hide=Jupyter notebook&layout=compact&theme=vue" />
+</a>  
+
 
 <!--
 **KohamaKaito/KohamaKaito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
